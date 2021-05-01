@@ -41,6 +41,9 @@
       "plugin": "users-permissions",
       "model": "user",
       "via": "guides"
+    },
+    "content": {
+      "type": "richtext"
     }
   }
 }
